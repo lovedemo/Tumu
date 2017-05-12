@@ -10,7 +10,11 @@ import javax.swing.JOptionPane;
 public class FindWindow extends JFrame {
 
 	/**
+	 *<<<<<<< HEAD
 	 * This is test
+	 *=======
+	 * This is just for test	
+	 *>>>>>>> test
 	 */
 	String type;
 	int hezai;
